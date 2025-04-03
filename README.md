@@ -40,4 +40,4 @@ A comprehensive penetration testing framework with 25+ security tools for red te
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/moros.git && cd moros && pip install -r requirements.txt && python3 moros.py
+git clone https://github.com/spyizxa/moros.git && cd moros && pip install -r requirements.txt && python3 -c "import moros; moros.main()"
