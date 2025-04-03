@@ -1,7 +1,6 @@
 # MOROS V1.0 - Red Team Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 [![Telegram](https://img.shields.io/badge/Telegram-@swarehackteam-blue.svg)](https://t.me/swarehackteam)
 [![Telegram](https://img.shields.io/badge/Telegram-@spyizxa-blue.svg)](https://t.me/spyizxa)
 
