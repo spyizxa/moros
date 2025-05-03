@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 [![Telegram](https://img.shields.io/badge/Telegram-@swarehackteam-blue.svg)](https://t.me/swarehackteam)
-[![Telegram](https://img.shields.io/badge/Telegram-@spyizxa-blue.svg)](https://t.me/spyizxa)
+[![Telegram](https://img.shields.io/badge/Telegram-@spyizxa-blue.svg)](https://t.me/spyizxa_0day)
 
 A comprehensive penetration testing framework with 25+ security tools for red team operations.
 
