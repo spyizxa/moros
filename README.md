@@ -1,7 +1,7 @@
-# MOROS V1.0 - Red Team Toolkit
+# MOROS - Red Team Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-[![Telegram](https://img.shields.io/badge/Telegram-@swarehackteam-blue.svg)](https://t.me/swarehackteam)
+[![Telegram](https://img.shields.io/badge/Telegram-@swarehackteam-blue.svg)](https://t.me/BlackHatPlatform)
 [![Telegram](https://img.shields.io/badge/Telegram-@spyizxa-blue.svg)](https://t.me/spyizxa_0day)
 
 A comprehensive penetration testing framework with 25+ security tools for red team operations.
@@ -40,4 +40,4 @@ A comprehensive penetration testing framework with 25+ security tools for red te
 ## Installation
 
 ```bash
-git clone https://github.com/spyizxa/moros.git && cd moros && pip install -r requirements.txt && python3 -c "import moros; moros.main()"
+git clone https://github.com/spyizxa/moros.git && cd moros && pip install -r requirements.txt && python3 moros.py
