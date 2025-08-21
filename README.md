@@ -1,7 +1,7 @@
 # MOROS - Red Team Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-[![BlackHatPlatform](https://img.shields.io/badge/Telegram-BlackHatPlatform-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/BlackHatPlatform)
+[![BlackHatPlatform](https://img.shields.io/badge/Telegram-swarehackteam-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/swarehackteam)
 [![Spyizxa](https://img.shields.io/badge/Telegram-Spyizxa_0day-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/spyizxa_0day)
 
 A comprehensive penetration testing framework with 25+ security tools for red team operations.
